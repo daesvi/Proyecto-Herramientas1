@@ -1,0 +1,5 @@
+C:\Users\Daniell\Documents\Login GV\GV.exe
+C:\Users\Daniell\Documents\Login GV\GV.dll
+C:\Users\Daniell\Documents\Login GV\GV.deps.json
+C:\Users\Daniell\Documents\Login GV\GV.runtimeconfig.json
+C:\Users\Daniell\Documents\Login GV\GV.pdb

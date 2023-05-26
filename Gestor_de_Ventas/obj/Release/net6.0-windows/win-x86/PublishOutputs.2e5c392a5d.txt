@@ -1,0 +1,7 @@
+C:\Users\Daniell\Documents\Login GV\GV.pdb
+C:\Users\Daniell\Documents\Login GV\D3DCompiler_47_cor3.dll
+C:\Users\Daniell\Documents\Login GV\PenImc_cor3.dll
+C:\Users\Daniell\Documents\Login GV\PresentationNative_cor3.dll
+C:\Users\Daniell\Documents\Login GV\vcruntime140_cor3.dll
+C:\Users\Daniell\Documents\Login GV\wpfgfx_cor3.dll
+C:\Users\Daniell\Documents\Login GV\GV.exe
